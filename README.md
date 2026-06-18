@@ -5,7 +5,7 @@ SQL practice for Data Engineering interviews — solving real problems daily.
 ## Progress Tracker
 | Category | Solved |
 |----------|--------|
-| LeetCode Easy | 0/30 |
+| LeetCode Easy | 1/30 |
 | LeetCode Medium | 0/20 |
 | Concepts covered | 0 |
 
