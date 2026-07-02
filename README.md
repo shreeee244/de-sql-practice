@@ -5,7 +5,7 @@ SQL practice for Data Engineering interviews — solving real problems daily.
 ## Progress Tracker
 | Category | Solved |
 |----------|--------|
-| LeetCode Easy | 1/30 |
+| LeetCode Easy | 4/30 |
 | LeetCode Medium | 0/20 |
 | Concepts covered | 0 |
 
@@ -21,4 +21,4 @@ SQL is 40% of every Data Engineering interview.
 Solving one problem daily = 180+ problems by placement season.
 
 ## Author
-[Your Name] — updating this daily
+shrustie patil — updating this daily
