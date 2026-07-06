@@ -9,7 +9,7 @@ SQL practice for Data Engineering interviews — solving real problems daily.
 | LeetCode Medium | 0/20 |
 | Concepts covered | 0 |
 
-## Topics
+## Topics 
 - Joins (INNER, LEFT, RIGHT, FULL)
 - Window Functions (ROW_NUMBER, RANK, LAG, LEAD)
 - CTEs and Subqueries
