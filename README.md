@@ -22,4 +22,3 @@ Solving one problem daily = 180+ problems by placement season.
 
 ## Author
 shrustie patil — updating this daily
-date 10 july 1026
