@@ -1,6 +1,6 @@
 # de-sql-practice
 
-SQL practice for Data Engineering interviews — solving real problems daily.
+SQL practice for Data Engineering interviews — solving real problems daily. 
 
 ## Progress Tracker
 | Category | Solved |
